@@ -16,9 +16,9 @@ Resource library: used to store links, data, etc. commonly used by the group
   https://www.aminer.cn/
 - dblp  
   https://dblp.org/
-- arxiv(Computation and Language)
+- arxiv(Computation and Language)  
   https://arxiv.org/list/cs.CL/recent
-- openreview
+- openreview  
   https://openreview.net/
 - 
  
