@@ -20,6 +20,10 @@ Resource library: used to store links, data, etc. commonly used by the group
   https://arxiv.org/list/cs.CL/recent
 - openreview  
   https://openreview.net/
+- papers with code(查论文对应的代码)  
+  https://paperswithcode.com/
+- connected papers(免费有限额)  
+  https://www.connectedpapers.com/
 - 
  
   
