@@ -1,5 +1,7 @@
 # xjuYu
 Resource library: used to store links, data, etc. commonly used by the group
+## 注
+内容按需更改 带务必保证修改后结构清晰完整
 
 # 目录
  0. [写README的各种markdown语法](https://github.com/guodongxiaren/README)
